@@ -394,11 +394,3 @@ def gui():
 
 
 gui()
-
-# figure out how to login to course forum
-# find the ratings on course forum for a each professor
-# sort the professors by rating
-# display a list in order of gpa ranking and list of rating ranking
-# allow users to put in multiple classes at once and display all the info at the same time
-# GUI with selection of department, type in class code(CS 1110), and box to put in time preference
-# get rid of all commented stuff
